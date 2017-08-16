@@ -1,0 +1,16 @@
+[
+	{
+		"model": "home.role",
+		"pk": 1,
+		"fields": {
+			"name": "Faculty"
+		}
+	},
+	{
+		"model": "home.role",
+		"pk": 2,
+		"fields": {
+			"name": "Student"
+		}
+	}
+]
