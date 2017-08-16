@@ -17,4 +17,3 @@ class CreateUser(forms.Form):
 
 	class Meta:
 		model = Person
-
